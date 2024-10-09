@@ -30,6 +30,13 @@ h3, h4 {
   object-fit: cover;
   overflow: hidden;
 }
+.button {
+  text-decoration: none;
+  background-color: #777;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
 .img-circle {
   width: 255px;
   height: 255px;
